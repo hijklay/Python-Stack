@@ -1,2 +1,2 @@
 # Python-Flask
-DSA Lab 5 Exercises
+DSA Lab #7 Sorting Exercise
